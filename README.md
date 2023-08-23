@@ -1,7 +1,7 @@
 Hi 👋 My name is Ojima
 ===============================
 
-I previously worked as a software engineer at MongoDB but left to join an exciting startup, sharing more soon. I'm interested in robotics🤖, distributed systems, systems performance, high-performance computing, and distributed machine learning.
+I recently joined @viamrobotics. I'm interested in robotics🤖, distributed systems, systems performance, high-performance computing, and distributed machine learning.
 
 *   🌍  I'm based in Brooklyn, New York, but I'm from Nigeria.
 *   ✉️  You can contact me at [oabraham@fandm.edu](mailto:oabraham@fandm.edu)
