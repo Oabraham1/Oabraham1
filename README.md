@@ -5,7 +5,7 @@ I recently joined [viamrobotics](https://viam.com). I'm interested in robotics�
 
 *   🌍  I'm based in Brooklyn, New York, but I'm from Nigeria.
 *   ✉️  You can contact me at [oabraham@fandm.edu](mailto:oabraham@fandm.edu)
-*   🧠  I'm learning BPF Performance Tools
+*   🧠  I'm learning Interpreter design
 
 <a href="https://www.github.com/oabraham1" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/oabraham1?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
