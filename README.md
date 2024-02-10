@@ -1,7 +1,7 @@
 Hi 👋 My name is Ojima
 ===============================
 
-I recently joined [viamrobotics](https://viam.com). I'm interested in robotics🤖, distributed systems, systems performance, low-level programming, compiler and interpreter design, parallel programming, high-performance computing, and distributed machine learning.
+I work [viamrobotics](https://viam.com). I'm interested in robotics🤖, mobile app development, distributed systems, systems performance, low-level programming, compiler and interpreter design, parallel programming, high-performance computing, and distributed machine learning.
 
 *   🌍  I'm based in Brooklyn, New York, but I'm from Nigeria.
 *   ✉️  You can contact me at [oabraham@fandm.edu](mailto:oabraham@fandm.edu)
