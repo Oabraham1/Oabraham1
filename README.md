@@ -5,7 +5,7 @@ I work at [viamrobotics](https://viam.com). I'm interested in robotics🤖, mobi
 
 *   🌍  I'm based in Brooklyn, New York, but I'm from Nigeria.
 *   ✉️  You can contact me at [abrahamojima2018@gmail.com](mailto:abrahamojima2018@gmail.com)
-*   🧠  I'm learning Interpreter design
+*   🧠  I'm learning Interpreter and OS design
 
 <a href="https://www.github.com/oabraham1" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/oabraham1?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
