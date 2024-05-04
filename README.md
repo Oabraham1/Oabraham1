@@ -4,7 +4,7 @@ Hi 👋 My name is Ojima
 I work at [viamrobotics](https://viam.com). I'm interested in robotics🤖, mobile app development, distributed systems, systems performance, low-level programming, compiler and interpreter design, parallel programming, high-performance computing, and distributed machine learning.
 
 *   🌍  I'm based in Brooklyn, New York, but I'm from Nigeria.
-*   ✉️  You can contact me at [oabraham@fandm.edu](mailto:oabraham@fandm.edu)
+*   ✉️  You can contact me at [abrahamojima2018@gmail.com](mailto:abrahamojima2018@gmail.com)
 *   🧠  I'm learning Interpreter design
 
 <a href="https://www.github.com/oabraham1" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/oabraham1?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
