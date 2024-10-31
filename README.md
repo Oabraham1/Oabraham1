@@ -1,9 +1,9 @@
 Hi 👋 My name is Ojima
 ===============================
 
-I work at [viamrobotics](https://viam.com). I'm interested in robotics🤖, mobile app development, distributed systems, systems performance, low-level programming, compiler and interpreter design, parallel programming, high-performance computing, and distributed machine learning.
+I work at [viamrobotics](https://viam.com). I'm interested in distributed systems, systems performance, low-level programming, compiler and interpreter design, parallel programming, high-performance computing, and distributed machine learning.
 
-*   🌍  I'm based in Brooklyn, New York, but I'm from Nigeria.
+*   🌍  I'm based in Brooklyn, New York.
 *   ✉️  You can contact me at [abrahamojima2018@gmail.com](mailto:abrahamojima2018@gmail.com)
 *   🧠  I'm learning Interpreter and OS design
 
